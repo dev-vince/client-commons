@@ -6,7 +6,7 @@
 
     <groupId>dev.vince</groupId>
     <artifactId>client-commons</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -21,7 +21,7 @@
             <url>https://maven.pkg.github.com/dev-vince/client-commons</url>
         </repository>
     </distributionManagement>
-    
+
     <dependencies>
         <dependency>
             <groupId>dev.vince</groupId>
