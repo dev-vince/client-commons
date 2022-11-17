@@ -19,7 +19,7 @@ public final class MoveUtil implements MinecraftInterface {
      * Sets the motion of the player
      * @param speed the speed of the player
      */
-    public static void setMotion(double speed) {
+    public static void setMotion(final double speed) {
         float yaw = mc.thePlayer.rotationYaw;
         double forward = mc.thePlayer.moveForward;
         double strafe = mc.thePlayer.moveStrafing;
