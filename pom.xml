@@ -14,6 +14,13 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <repositories>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/dev-vince/minecraft-deobfuscated</url>
+        </repository>
+    </repositories>
+    
     <distributionManagement>
         <repository>
             <id>github</id>
