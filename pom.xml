@@ -20,7 +20,7 @@
             <url>https://maven.pkg.github.com/dev-vince/minecraft-deobfuscated</url>
         </repository>
     </repositories>
-    
+
     <distributionManagement>
         <repository>
             <id>github</id>
