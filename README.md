@@ -27,7 +27,7 @@ To import the library using maven, add the following to your `pom.xml`:
     <dependency>
         <groupId>dev.vince</groupId>
         <artifactId>client-commons</artifactId>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </dependency>
 </dependencys>
 ```
